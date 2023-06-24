@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Raghavendra</string>
+
+    <array name="generes">
+
+        <item>--Select Waste Type--</item>
+        <item>Solid</item>
+        <item>Liquid</item>
+        <item>Spent Carbon </item>
+
+    </array>
+
+    <array name="snames">
+
+        <item>--Select Waste Generator--</item>
+        <item>Bhagiradha Pharma</item>
+        <item>Malladi Drugs</item>
+        <item>Virchow Chemicals</item>
+    </array>
+</resources>

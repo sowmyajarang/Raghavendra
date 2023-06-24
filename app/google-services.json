@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423103339165",
+    "project_id": "raghavendra-3c16b",
+    "storage_bucket": "raghavendra-3c16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423103339165:android:fb9e8efd9c5e09c4601274",
+        "android_client_info": {
+          "package_name": "com.raghavendra.raghavendra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423103339165-ad4t8rbl9u5e8ss8drfi33m0md0oplj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgu3v5yue7MJEyZ_JchCMARMwpPECb_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423103339165-ad4t8rbl9u5e8ss8drfi33m0md0oplj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
